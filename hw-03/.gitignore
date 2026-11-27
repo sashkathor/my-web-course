@@ -1,0 +1,11 @@
+# Системні файли macOS та Windows
+.DS_Store
+Thumbs.db
+
+# Налаштування редакторів коду
+.vscode/
+.idea/
+
+# Тимчасові файли та логи
+*.log
+*.tmp
